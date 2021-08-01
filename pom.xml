@@ -61,7 +61,7 @@
                             <goal>java</goal>
                         </goals>
                         <configuration>
-                            <mainClass>nz.ac.massey.cs.sample_maven_project_1.Main</mainClass>
+                            <mainClass>guavaExamples.Main</mainClass>
                             <arguments>
                                 <argument>arg0</argument>
                                 <argument>arg1</argument>
